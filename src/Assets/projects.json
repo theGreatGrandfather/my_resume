@@ -1,0 +1,6 @@
+[
+  { "id": "1", "name": "House selling", "rep": "https://github.com/Praded3/house-json" , "href": "https://praded3.github.io/house/", "technology": "[HTML5, CSS3, JavaScript, Google Maps API, Telegram API] My pet project with a responsive layout. Used the Google Maps API, write big js code. Also I wrote a function for sending an application to Telegram." },
+  { "id": "2", "name": "Furniture shop", "rep": "https://github.com/Praded3/meb" , "href": "https://praded3.github.io/meb/", "technology": "[HTML5, CSS3, JavaScript] While making this layout, I used sliders, made a good adaptive layout." },
+  { "id": "4", "name": "BarberShop", "rep": "https://github.com/Praded3/barberShop" , "href": "https://praded3.github.io/barberShop", "technology": " [HTML5, CSS3, JavaScript] Project with a responsive layout, I used flexes and make a mobile menu." },
+  { "id": "5", "name": "Landing page", "rep": "https://github.com/Praded3/Business-promotion" , "href": "https://praded3.github.io/Business-promotion", "technology": "[HTML5, CSS3, JavaScript] Project with a responsive layout, I used flexes and make a mobile menu." }
+]
